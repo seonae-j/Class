@@ -50,6 +50,7 @@
 
 .main code {
   font-family: inherit;
+  color: red;
   background: var(--gray-alpha-100);
   padding: 2px 4px;
   border-radius: 4px;
